@@ -1,8 +1,12 @@
 # React para Iniciantes
 
+``` link do Repositório: ```  https://codesandbox.io/s/github/eduardodsr/curso-react-iniciante/
+
+``` link do React App: ```  https://xy4yx.csb.app/
+
+
 ![capa react para iniciantes](https://i.imgur.com/6wAP26W.jpg)
 
-React Kanban Board criado totalmente do zero durante o curso [React para Iniciantes](https://www.udemy.com/course/react-para-iniciantes-free/)
 
 ## Objetivo do Curso
 
