@@ -1,4 +1,4 @@
-# React para Iniciantes
+# React para Iniciantes - React Kanban
 
 ``` link do Repositório: ```  https://codesandbox.io/s/github/eduardodsr/curso-react-iniciante/
 
