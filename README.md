@@ -1,8 +1,13 @@
 # React para Iniciantes - React Kanban
 
+Aplicação criada no curso de React iniciante do professor Bruno Paulino, na Udemy.
+
 ``` link do Repositório: ```  https://codesandbox.io/s/github/eduardodsr/curso-react-iniciante/
 
 ``` link do React App: ```  https://xy4yx.csb.app/
+
+``` link do Curso Udemy: ```  https://www.udemy.com/course/react-para-iniciantes-free/
+
 
 
 ![capa react para iniciantes](https://i.imgur.com/6wAP26W.jpg)
